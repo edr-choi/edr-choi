@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+💬 Ask me about RNA!
 <!--
 **edr-choi/edr-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
